@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
 import './App.css'
-import './style.css'
+import './Style.css'
 import Career from './pages/Career'
 import All from './pages/All'
 import Fsd from './pages/Fsd'
